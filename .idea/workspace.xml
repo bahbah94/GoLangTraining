@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ea0f86c-a933-4f95-b111-baed7ebe08b1" name="Default" comment="&quot;commited bitch&quot;">
-      <change afterPath="$PROJECT_DIR$/memory-address/showing-address/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory-address/using-address/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/dereferencing/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/referencing/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/using-pointers/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/usingpointers/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/withoutpointers/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +45,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memory-address/using-address/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pointers/dereferencing/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pointers/using-pointers/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pointers/usingpointers/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pointers/withoutpointers/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pointers/referencing/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -90,6 +138,11 @@
         <option value="$PROJECT_DIR$/Constants/iota/main.go" />
         <option value="$PROJECT_DIR$/memory-address/showing-address/main.go" />
         <option value="$PROJECT_DIR$/memory-address/using-address/main.go" />
+        <option value="$PROJECT_DIR$/Pointers/referencing/main.go" />
+        <option value="$PROJECT_DIR$/Pointers/dereferencing/main.go" />
+        <option value="$PROJECT_DIR$/Pointers/using-pointers/main.go" />
+        <option value="$PROJECT_DIR$/Pointers/withoutpointers/main.go" />
+        <option value="$PROJECT_DIR$/Pointers/usingpointers/main.go" />
       </list>
     </option>
   </component>
@@ -102,9 +155,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-269" />
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="404" />
+    <option name="y" value="78" />
     <option name="width" value="842" />
     <option name="height" value="688" />
   </component>
@@ -124,19 +177,37 @@
             <path>
               <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="memory-address" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="memory-address" type="462c0819:PsiDirectoryNode" />
-              <item name="showing-address" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="dereferencing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="memory-address" type="462c0819:PsiDirectoryNode" />
-              <item name="using-address" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="referencing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="using-pointers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="usingpointers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="withoutpointers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +268,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-269" y="28" width="842" height="688" extended-state="1" />
+    <frame x="630" y="55" width="842" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29795396" />
@@ -319,6 +390,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pointers/referencing/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/memory-address/showing-address/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -330,6 +408,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pointers/dereferencing/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pointers/using-pointers/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pointers/withoutpointers/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pointers/usingpointers/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
