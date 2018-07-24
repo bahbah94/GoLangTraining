@@ -19,7 +19,9 @@ func main(){
 }
 func incrementor(s string){
 	for i:=0; i< 20; i++{
-		x := counter
+		x := counter // here is the race condition,
+		// both go routines are accessing this global variable and updating it or rather reading it and then doing
+		// something
 		x++
 		time.Sleep(time.Duration(rand.Intn(3))*time.Millisecond)
 	counter = x
