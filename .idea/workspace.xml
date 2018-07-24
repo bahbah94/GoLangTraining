@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ea0f86c-a933-4f95-b111-baed7ebe08b1" name="Default" comment="&quot;commited bitch&quot;">
-      <change afterPath="$PROJECT_DIR$/Applied/app1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Applied/app2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Applied/app3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Applied/app4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Applied/app5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/ch7/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Channels/direction/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/concur3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrency/concur3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Applied/fanning/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Applied/app5/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -63,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Channels/ch2/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Applied/fanning/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="454">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -133,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Functions/callbacks/main.go" />
         <option value="$PROJECT_DIR$/Functions/callback1/main.go" />
         <option value="$PROJECT_DIR$/Functions/recursion/main.go" />
         <option value="$PROJECT_DIR$/Functions/defer/main.go" />
@@ -184,6 +169,7 @@
         <option value="$PROJECT_DIR$/Applied/app3/main.go" />
         <option value="$PROJECT_DIR$/Applied/app4/main.go" />
         <option value="$PROJECT_DIR$/Applied/app5/main.go" />
+        <option value="$PROJECT_DIR$/Applied/fanning/main.go" />
       </list>
     </option>
   </component>
@@ -215,6 +201,23 @@
             <path>
               <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Applied" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Applied" type="462c0819:PsiDirectoryNode" />
+              <item name="app5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoLangTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoLangTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Applied" type="462c0819:PsiDirectoryNode" />
+              <item name="fanning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,6 +278,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="693" y="49" width="842" height="674" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3056266" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -308,13 +312,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;commited bitch&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data-Structures/Array/array1/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions/exercises/variadicprob/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -703,6 +700,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied/fanning/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
         </state>
       </provider>
     </entry>
